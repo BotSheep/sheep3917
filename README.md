@@ -2,7 +2,7 @@
 
 ## I'm a Developer, .
 
-- 🌱 I’m currently working at ProlificRP [SirenRP] 🤣
+- 🌱 I’m currently working at ProlificRP [ProlificRP] 🤣
 - 👯 Currently Learing QB-core framework [QBCore Framework][QBCore]
 
 ---
@@ -24,4 +24,4 @@
 [QBCore]: https://discord.gg/qbcore
 [discord]: https://discord.gg/Uf3pycqG
 [Twitch]: https://www.twitch.tv/sheep3917
-[sirenrp]: https://discord.gg/prolific
+[ProlificRP]: https://discord.gg/prolific
