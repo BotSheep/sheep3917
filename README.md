@@ -2,7 +2,6 @@
 
 ## I'm a Developer, .
 
-- 🌱 I’m currently working at ProlificRP [ProlificRP] 🤣
 - 👯 Currently Learing QB-core framework [QBCore Framework][QBCore]
 
 ---
@@ -17,11 +16,8 @@
 
 ---
 
-### Discord: [<img align="center" alt="sheep3917 | Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 
 [website]: https://discord.gg/Uf3pycqG/
 [QBCore]: https://discord.gg/qbcore
-[discord]: https://discord.gg/Uf3pycqG
 [Twitch]: https://www.twitch.tv/sheep3917
-[ProlificRP]: https://discord.gg/prolific
