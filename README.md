@@ -1,8 +1,5 @@
 ### Hi there 👋 , I'm SHEEP 
 
-## I'm a Developer, .
-
-- 👯 Currently Learing QB-core framework [QBCore Framework][QBCore]
 
 ---
 
